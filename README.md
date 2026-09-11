@@ -19,9 +19,9 @@ Este caderno temático foi estruturado para servir como um repositório centrali
 
 Para compor a base de conhecimento deste projeto no Notebook, foram selecionadas e analisadas 3 fontes abertas principais:
 
-O tutorial do Python — Documentação Python 3.14.7: https://www.google.com/url?sa=E&q=https%3A%2F%2Fdocs.python.org%2Fpt-br%2F3%2Ftutorial%2F
-Python Brasil - Python para quem está começando: https://www.google.com/url?sa=E&q=https%3A%2F%2Fpython.org.br%2Fintroducao%2F
-Python Tutorial (W3Schools): https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.w3schools.com%2Fpython%2Fdefault.asp
+* O tutorial do Python — Documentação Python 3.14.7: https://www.google.com/url?sa=E&q=https%3A%2F%2Fdocs.python.org%2Fpt-br%2F3%2Ftutorial%2F
+* Python Brasil - Python para quem está começando: https://www.google.com/url?sa=E&q=https%3A%2F%2Fpython.org.br%2Fintroducao%2F
+* Python Tutorial (W3Schools): https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.w3schools.com%2Fpython%2Fdefault.asp
 
 ---
 
